@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi 👋, I'm Faustine Wandera</h1>
 
-<!--
-**Faustinewandera/Faustinewandera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🚀 Backend Developer | Java | Spring Boot | Microservices</p>
 
-Here are some ideas to get you started:
+<h2>Tech Stack</h2>
+<ul>
+  <li>Java</li>
+  <li>Spring Boot</li>
+  <li>MySQL</li>
+  <li>Docker</li>
+  <li>Git & GitHub</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Featured Projects</h2>
+<ul>
+  <li>🏦 <strong>Bank Application</strong> – Money transfer, real-time balance updates</li>
+  <li>🛒 <strong>E-Commerce Application</strong> – JWT auth (Admin, Seller, Customer)</li>
+  <li>🗳️ <strong>E-Voting System</strong> – Secure voting with role-based access</li>
+</ul>
+
+<p>📫 Connect: <a href="https://www.linkedin.com/in/faustine-wandera-70928b238">LinkedIn</a></p>
+  
